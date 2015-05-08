@@ -1,2 +1,2 @@
-# bat_tips
-bat script tips
+# bat_know_how
+bat script know how
